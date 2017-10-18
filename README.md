@@ -15,4 +15,4 @@ Sample code is provided. First, install the dependencies. Then, adjust the hard-
 ## Screenshots
 
 ![Screenshot 1](http://i.imgur.com/vmtAdzU.png "Screenshot 1")
-![Screenshot 2](http://i.imgur.com/0FAZlIU.png "Screenshot 2"")
+![Screenshot 2](http://i.imgur.com/0FAZlIU.png "Screenshot 2")
